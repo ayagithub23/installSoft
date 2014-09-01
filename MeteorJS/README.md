@@ -9,7 +9,7 @@ MeteorJS 安裝設定
 <h1>for Windows</h1>
 <p>http://win.meteor.com/</p>
 
-<h1>說明文件</h1>
+<h1>Discover Meteor</h1>
 <h3>英文</h3>
 <p>http://docs.meteor.com/</p>
 <h3>中文</h3>
