@@ -1,0 +1,22 @@
+{
+	"aprosopo_active_bar": true,
+	"aprosopo_active_text": true,
+	"aprosopo_combined_dirty_active_bar": true,
+	"aprosopo_dark_dirty_green": true,
+	"aprosopo_dark_green": true,
+	"aprosopo_dirty_bar": true,
+	"aprosopo_hide_folder_expand_icon": true,
+	"aprosopo_no_file_icons": true,
+	"aprosopo_show_tab_close_buttons": true,
+	"aprosopo_show_tab_close_on_hover": true,
+	"aprosopo_sidebar_font_large": true,
+	"aprosopo_sidebar_tree_large": true,
+	"color_scheme": "Packages/Theme - Aprosopo/Tomorrow-Night-Eighties-Stormy.tmTheme",
+	"theme": "Aprosopo Dark@st3.sublime-theme",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"jQuery",
+		"Vintage"
+	]
+}
