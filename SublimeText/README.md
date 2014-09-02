@@ -45,4 +45,6 @@ Sublime Text 安裝設定
 <h3>HTML-CSS-JS Prettify</h3>
 <p>https://sublime.wbond.net/packages/HTML-CSS-JS%20Prettify</p>
 
+<h3>LiveReload</h3>
+<p>https://sublime.wbond.net/packages/LiveReload</p>
 </body>
