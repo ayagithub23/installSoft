@@ -14,7 +14,7 @@ http://www.sublimetext.com/
 <p>http://www.w3schools.com/css/default.asp</p>
 
 <h3>Sass</h3>
-<p>http://sass-lang.com/</br>
+<p>http://sass-lang.com/<br>
 http://sam0512.blogspot.tw/2013/10/sass.html</p>
 
 <h3>Javascript</h3>
@@ -24,7 +24,7 @@ http://sam0512.blogspot.tw/2013/10/sass.html</p>
 <p>http://jquery.com/
 
 <h3>Coffeescript</h3>
-<p>http://coffeescript.org/</br>
+<p>http://coffeescript.org/<br>
 http://blog.eddie.com.tw/2011/08/03/coffeescript-introduction/</p>
 
 <h3>LiveScript</h3>
