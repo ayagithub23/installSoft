@@ -65,7 +65,7 @@ http://nodejs.tw/</p>
 <p>https://www.tumblr.com/dashboard</p>
 
 <h3>g0v Hackpad</h3>
-<p>ttps://g0v.hackpad.com/</p>
+<p>https://g0v.hackpad.com/</p>
 
 <h3>g0v designer set 前端半條龍手冊</h3>
 <p>https://g0v.hackpad.com/g0v-designer-set--R7BEW2muCbU</p>
